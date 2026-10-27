@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clear Connected Writing"
+  short_description: "Connected prose with meaning and voice intact"
+  default_prompt: "Use $clear-connected-writing to revise this passage for flow and clarity while preserving its meaning and voice."
